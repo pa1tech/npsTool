@@ -1,8 +1,8 @@
 # NPS Tool
 
-Python script to benchmark and compare NPS Tier-1 Equity performance between SBI, HDFC and NIFTY
+Python script to benchmark and compare NPS Tier-1 Equity performance between SBI, HDFC, ICICI and NIFTY
 
-HDFC and SBI are the 2 leading PFMs in AUM
+HDFC ICICI SBI are the 3 leading PFMs in AUM
 
 ## How to use?
 * Required columns in the input csv file:
